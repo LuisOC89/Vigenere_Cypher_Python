@@ -12,7 +12,9 @@ It works!!! If you want to send a message (✉️) to somebody and you dont want
 
 ## Getting Started
 
-Get a copy of the project by downloading the three python files located in the folder named **python_format_files** (the ones that end in *.py*) and save them in the same folder in your computer. For running the project on your computer please read the Instructions below.
+Get a copy of the project by copying the three python files located in the folder named **python_format_files** (the ones that end in *.py*) and save them in Notepad with a .py extension in the same folder in your computer. For running the project on your computer please see the Instructions below.
+
+and save it 
 
 ### Prerequisites
 You would have to have an IDE (Interface Development Environment) software that lets you execute Python files in your computer. The python IDE is free and can be directly downloaded from the python website [here.](https://www.python.org/downloads/release/python-363/)
@@ -35,9 +37,7 @@ link: https://youtu.be/ezf69cKpxjE
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python 3](https://www.python.org/) 
 
 ## Contributing
 
