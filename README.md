@@ -6,8 +6,8 @@ Version of the Cipher Vigenere using Python 3
 This program is a version of the Vigenere Cypher using Python 3. 
 It works!!! If you want to send a message (✉️) to somebody and you dont want somebody_else_that_doesnt_know_nothing_about_cyphers_programming_or_internet to know what your ✉️ says, you can use this program. If you want to know more about the Vigenere Cipher itself, watch the next video (click on the screen below).
 
-<a href="https://www.youtube.com/watch?v=sMOZf4GN3oc">
-<img src="http://i3.ytimg.com/vi/sMOZf4GN3oc/maxresdefault.jpg" alt="The Caesar Cipher"" width="600" alt="Buscar video en youtube">
+<a href="https://www.youtube.com/watch?v=9zASwVoshiM&feature=youtu.be">
+<img src="https://i.ytimg.com/vi/SkJcmCaHqS0/maxresdefault.jpg" alt="The Vigenere Cipher"" width="600">
 </a>
 
 ## Getting Started
